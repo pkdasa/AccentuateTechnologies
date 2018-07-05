@@ -1,5 +1,5 @@
 package com.accentuate.student;
 
-public class StudentDetails {
-
+public class StudentDetails{
+	System.out.println("hello");
 }
